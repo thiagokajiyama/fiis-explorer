@@ -1,3 +1,8 @@
+# Pesonal folders
+archive/*
+!archive/.gitkeep
+fiis_explorer/testing.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
